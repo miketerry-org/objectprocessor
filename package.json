@@ -1,13 +1,21 @@
 {
   "type": "module",
-  "name": "turbo-schema",
+  "name": "turbo-verify",
   "version": "0.0.1",
-  "description": "Use schema  to massage and verify javascript objects",
+  "description": "Use schema  to transform and verify javascript objects",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "turbo",
+    "verify",
+    "schema",
+    "transform",
+    "javascript",
+    "object",
+    "array"
+  ],
   "author": "Mike Terry",
   "license": "MIT",
   "dependencies": {
